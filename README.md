@@ -1,4 +1,4 @@
-# UniFix Frontend
+# FixOn Frontend
 
 UniFix is a React web interface for exploring system dashboards, AI-assisted workflows, reusable blueprints, script repositories, dependency audits, and user settings.
 
