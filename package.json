@@ -1,0 +1,13 @@
+{
+  "name": "unifix-frontend",
+  "version": "1.0.0",
+  "description": "UniFix React frontend",
+  "author": "",
+  "license": "ISC",
+  "scripts": {
+    "dev": "npm --prefix frontend run dev",
+    "build": "npm --prefix frontend run build",
+    "lint": "npm --prefix frontend run lint"
+  },
+  "keywords": []
+}
