@@ -306,7 +306,7 @@ const Register = () => {
                     value={formData.email}
                     onChange={(e) => handleChange('email', e.target.value)}
                     onKeyDown={(e) => handleKeyPress(e, 'email', 'password')}
-                    placeholder="operator@fixiq.local"
+                    placeholder="operator@fixon.local"
                     className={`w-full rounded-3xl border px-4 py-4 text-sm text-white outline-none transition ${errors.email ? 'border-rose-500 bg-rose-500/5 focus:border-rose-400' : 'border-white/10 bg-slate-900/80 focus:border-sky-400'}`}
                   />
                   {errors.email && <p className="text-sm text-rose-300">{errors.email}</p>}

@@ -41,7 +41,7 @@ const GlobalChat = ({ isOpen, onClose, onInsertCode }) => {
     {
       id: 'assistant-0',
       role: 'assistant',
-      content: 'Hello! I am FixiQ AI. Ask me anything about your environment or scripts.',
+      content: 'Hello! I am FixOn AI. Ask me anything about your environment or scripts.',
       time: formatTime(new Date()),
     },
   ]);
@@ -197,7 +197,7 @@ const GlobalChat = ({ isOpen, onClose, onInsertCode }) => {
             <div className="flex-1">
               <div className="flex items-center justify-between gap-3 pb-3">
                 <span className="text-[10px] uppercase tracking-[0.24em] text-slate-500">
-                  {message.role === 'user' ? 'You' : 'FixiQ AI'}
+                  {message.role === 'user' ? 'You' : 'FixOn AI'}
                 </span>
                 <span className="text-[10px] text-slate-500">{message.time}</span>
               </div>
@@ -285,7 +285,7 @@ const GlobalChat = ({ isOpen, onClose, onInsertCode }) => {
                     <Bot size={22} />
                   </div>
                   <div>
-                    <h2 className="text-xl font-black text-white">FixiQ AI Assistant</h2>
+                    <h2 className="text-xl font-black text-white">FixOn AI Assistant</h2>
                     <p className="text-sm text-slate-400">Ask about script security, automation, or system optimization.</p>
                   </div>
                 </div>

@@ -1,6 +1,6 @@
 # FixOn Frontend
 
-UniFix is a React web interface for exploring system dashboards, AI-assisted workflows, reusable blueprints, script repositories, dependency audits, and user settings.
+FixOn is a React web interface for exploring system dashboards, AI-assisted workflows, reusable blueprints, script repositories, dependency audits, and user settings.
 
 This repository contains the frontend application only. It is built with React, Vite, Tailwind CSS, and React Router.
 

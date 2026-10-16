@@ -100,7 +100,7 @@ const CommandPalette = ({ isOpen, onClose }) => {
                                     <span className="text-[9px] font-black uppercase tracking-widest">Execute</span>
                                 </div>
                             </div>
-                            <div className="text-[9px] font-black text-primary uppercase tracking-widest">FixiQ Global Palette</div>
+                            <div className="text-[9px] font-black text-primary uppercase tracking-widest">FixOn Global Palette</div>
                         </div>
                     </motion.div>
                 </motion.div>

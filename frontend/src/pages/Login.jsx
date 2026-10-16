@@ -141,7 +141,7 @@ const Login = () => {
                 <span className="h-3 w-3 rounded-full bg-[#ffbd2e] shadow-[0_0_15px_rgba(255,189,46,0.25)]" />
                 <span className="h-3 w-3 rounded-full bg-[#27c93f] shadow-[0_0_15px_rgba(39,201,63,0.25)]" />
               </div>
-              <div className="text-sm uppercase tracking-[0.24em] text-slate-400">secure-node@fixiq</div>
+              <div className="text-sm uppercase tracking-[0.24em] text-slate-400">secure-node@fixon</div>
               <div className="text-xs uppercase tracking-[0.3em] text-emerald-300">SSH console</div>
             </div>
 

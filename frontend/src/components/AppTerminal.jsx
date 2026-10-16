@@ -73,7 +73,7 @@ const AppTerminal = ({
     term.open(terminalMountRef.current);
     fitAddon.fit();
 
-    term.writeln('\x1b[36mFixiQ terminal ready.\x1b[0m');
+    term.writeln('\x1b[36mFixOn terminal ready.\x1b[0m');
     term.writeln('\x1b[90mRun a script to start streaming output here.\x1b[0m');
 
     const disposeData = term.onData((data) => {
